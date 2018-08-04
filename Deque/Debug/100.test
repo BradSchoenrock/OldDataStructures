@@ -1,0 +1,54 @@
+Remember:
+ a == addFront
+b == addBack
+c == popFront
+d == popBack
+e == contains
+Item 9 not found.
+Pop front 0
+Item 0 not found.
+Pop back 1
+Item 0 found.
+Pop back 0
+Pop front 5
+Pop front 4
+Item 3 not found.
+Item 9 not found.
+Pop front 4
+Item 4 not found.
+Item 8 not found.
+Item 1 found.
+Pop front 0
+Pop front 4
+Pop back 5
+Pop back 1
+Pop front 9
+Item 6 found.
+Pop back 3
+Pop front 3
+Pop front 8
+Pop front 5
+Pop back 9
+Pop back 6
+Pop front 8
+Item 0 found.
+Pop back 8
+Item 6 found.
+Item 2 found.
+Pop back 7
+Item 3 found.
+Item 2 found.
+Pop back 1
+Pop back 0
+Item 9 not found.
+Item 3 found.
+Pop front 5
+Pop front 3
+Pop front 1
+Pop back 6
+Pop back 6
+Item 6 found.
+Item 8 not found.
+Pop back 6
+Pop back 3
+Pop back 6

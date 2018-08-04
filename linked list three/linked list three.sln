@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "linked list three", "linked list three\linked list three.vcproj", "{E6972DD5-39C9-4944-BEEB-3883DCAEE3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6972DD5-39C9-4944-BEEB-3883DCAEE3AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6972DD5-39C9-4944-BEEB-3883DCAEE3AB}.Debug|Win32.Build.0 = Debug|Win32
+		{E6972DD5-39C9-4944-BEEB-3883DCAEE3AB}.Release|Win32.ActiveCfg = Release|Win32
+		{E6972DD5-39C9-4944-BEEB-3883DCAEE3AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

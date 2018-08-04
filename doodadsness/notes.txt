@@ -1,0 +1,1 @@
+plays "what number am i thinking of" game

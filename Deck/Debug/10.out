@@ -1,0 +1,10 @@
+Remember:
+ a == addFront
+b == addBack
+c == popFront
+d == popBack
+e == contains
+Pop back 5
+Item 0 not found.
+Pop front 8
+Pop front 5

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer quiz", "pointer quiz\pointer quiz.vcproj", "{151F78C2-23E0-4DE0-967A-001A01C512A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151F78C2-23E0-4DE0-967A-001A01C512A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{151F78C2-23E0-4DE0-967A-001A01C512A5}.Debug|Win32.Build.0 = Debug|Win32
+		{151F78C2-23E0-4DE0-967A-001A01C512A5}.Release|Win32.ActiveCfg = Release|Win32
+		{151F78C2-23E0-4DE0-967A-001A01C512A5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

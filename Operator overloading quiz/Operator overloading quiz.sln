@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operator overloading quiz", "Operator overloading quiz\Operator overloading quiz.vcproj", "{2059821D-2814-4979-89C1-5886DA99DBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2059821D-2814-4979-89C1-5886DA99DBEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2059821D-2814-4979-89C1-5886DA99DBEF}.Debug|Win32.Build.0 = Debug|Win32
+		{2059821D-2814-4979-89C1-5886DA99DBEF}.Release|Win32.ActiveCfg = Release|Win32
+		{2059821D-2814-4979-89C1-5886DA99DBEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
